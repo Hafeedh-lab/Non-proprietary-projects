@@ -1,5 +1,7 @@
 # PROJECTS
 Here's all the non-proprietary projects I have worked on thus far:
+
+
 1.) **Automated Parsing of Ghana’s Budget Statements**
 
 **Context & Challenge**
