@@ -22,7 +22,7 @@ Manually extracting macroeconomic variables from lengthy government documents (s
 What typically took a full day of manual effort was reduced to about an hour, thanks to a combination of automated text retrieval and bulk numeric conversions. This streamlined process enabled more time for analysis and validation, rather than tedious data extraction.
 
 
-2.) Risk Scoring Model for Payment Processing Using Unsupervised Learning
+2.) **Risk Scoring Model for Payment Processing Using Unsupervised Learning**
 
 **Context & Challenge**
 
@@ -46,7 +46,7 @@ To enhance fraud detection in payment processing, I was tasked with developing a
 This unsupervised approach successfully highlighted anomalous transaction behaviors without labeled fraud data, enabling proactive risk management. The method offers a scalable, interpretable framework adaptable to larger datasets, significantly improving anomaly detection capabilities in payment processing scenarios.
 
 
-3.) Automating a Word Bibliography — Sorting, De-duplicating & Preserving Hyperlinks
+3.) **Automating a Word Bibliography — Sorting, De-duplicating & Preserving Hyperlinks**
 
 **Context & Challenge**
 
@@ -70,7 +70,7 @@ Included error-catching mechanisms to identify and clearly report potential issu
 This Python utility successfully transformed a task that initially threatened hours of manual labor into a streamlined, repeatable 30-second process. Not only did it meet the tight deadline flawlessly—sorting nearly 200 references without omitting or duplicating hyperlinks—but it also retained all intricate Chicago-style formatting. This efficient approach significantly reduced stress during a crucial period of my supervisor's thesis completion, demonstrating the immense practical value and precision of the developed tool for future academic projects.
 
 
-4.) Automating Payment Reconciliation for Non-Tech Savvy Mom
+4.) **Automating Payment Reconciliation for Non-Tech Savvy Mom**
 
 **Context & Challenge**
 
