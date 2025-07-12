@@ -25,10 +25,10 @@ import re
 from dateutil import parser as dtparse
 
 # Constants
-USER = "zulikhabinvestment@yahoo.com"
-PASS = "Zulikah1964"
+USER = "USER.ENV"
+PASS = "PWD.ENV"
 LOGIN_URL = "https://lawma.trackitpay.com/sys/signin"
-SPREADSHEET_KEY = '1s3iWQWXjfKGdEsZ-req8-cUSnA9upqyBas3zm9FluHI'
+SPREADSHEET_KEY = 'SK.ENV'
 CREDENTIALS_FILE = '/content/drive/MyDrive/Colab Notebooks/SUPPORT FILES /my_friend.json'
 
 def norm_amount(s):
